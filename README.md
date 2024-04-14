@@ -61,6 +61,10 @@ Use the following commands in Command Prompt or PowerShell to create directories
 - **Radarr and Sonarr:**
   Go to `Settings > Download Clients` and add qBittorrent as a client. Then use `Radarr > Movies > Library > Import` and `Sonarr > Series > Library > Import` to set up directories for automatic file management and renaming according to your settings in `Settings > Media Management`.
 
+## Usage
+
+Simply search for a movie or TV show via the respective portals of Sonarr and Radarr. These applications will automatically handle the downloading and importing of media files into your pre-configured library directories. This seamless integration facilitates the management of your digital media collection without manual intervention.
+
 ## Media Server Setup
 
 Choose a media server like Plex, Jellyfin, or Emby to import and manage your TV shows and movies library. Configuration for automatic downloads via watchlists will vary depending on the media server or third-party tracking service used.
