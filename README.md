@@ -68,6 +68,3 @@ Choose a media server like Plex, Jellyfin, or Emby to import and manage your TV 
 ## Final Notes
 
 This setup enables you to efficiently manage and streamline your digital media management process, allowing for easy search and automatic handling of media files through the specified applications.
-```
-
-This revised README includes both the automatic (Winget) and manual installation methods, providing flexibility based on the user's preferences or system capabilities.
