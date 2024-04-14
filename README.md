@@ -53,7 +53,7 @@ Use the following commands in Command Prompt or PowerShell to create directories
 ## Configuration of Applications
 
 - **qBittorrent:**
-  Open qBittorrent, go to `Tools > Options`. Under the `Downloads` section, set the default save path to `%SystemDrive%\Media\Downloads`. Enable the Web UI in the `Web UI` section and set up a username and password.
+  Open qBittorrent, go to `Tools > Options`. Under the `Downloads` section, set the default save path to `%SystemDrive%\Media\Downloads`. Enable the Web UI in the `Web UI` section and set up a username and password. Optionally, you can configure a proxy server under the Connection tab to enhance download security.
 
 - **Prowlarr:**
   Set up your preferred indexers in Prowlarr, then link Radarr and Sonarr by navigating to the `Apps` menu and inputting the API key found in `Settings > General` of each program.
